@@ -1,5 +1,5 @@
 /*
- *  UCF COP3330 Fall 2021 Assignment 3 Exercise 8
+ *  UCF COP3330 Fall 2021 ch 6 Exercise 4
  *  Copyright 2021 Patrick Mac
  */
 
